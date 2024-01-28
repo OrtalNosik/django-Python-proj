@@ -1,6 +1,6 @@
 # django-Python-proj
 offer the treatment the most suitable for the patient with django and python
-
+this Django web application, crafted with Python and seamlessly integrates robust features for efficient data management and a user-friendly experience.
 The software adhere to the following fundamental requirements:
 
 1. **Doctor Authentication:**
