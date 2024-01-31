@@ -31,6 +31,8 @@ The software adhere to the following fundamental requirements:
    - Consider the patient's responses in the diagnosis.
    - The list of questions is predetermined in the software, and there is no provision for adding more questions.
 
+run from your terminal: python manage.py runserver
+
 These requirements form the foundation of the software, ensuring a secure and comprehensive system for managing patient data and medical conditions.
 
 ![image](https://github.com/OrtalNosik/django-Python-proj/assets/93153515/e893b7cc-5227-49f0-bda5-531c2c7ca9dc)
