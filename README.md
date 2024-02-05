@@ -35,6 +35,7 @@ run from your terminal: python manage.py runserver
 
 These requirements form the foundation of the software, ensuring a secure and comprehensive system for managing patient data and medical conditions.
 
+# Screens UI
 ![image](https://github.com/OrtalNosik/django-Python-proj/assets/93153515/e893b7cc-5227-49f0-bda5-531c2c7ca9dc)
 ![image](https://github.com/OrtalNosik/django-Python-proj/assets/93153515/2d24f92f-d628-46ed-a503-04fff6e72147)
 ![image](https://github.com/OrtalNosik/django-Python-proj/assets/93153515/3e47f6d4-1b36-4ee4-bac4-9c0f6fa536c4)
